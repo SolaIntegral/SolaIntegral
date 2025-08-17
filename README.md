@@ -86,6 +86,14 @@ Webアプリケーションの開発に情熱を持ち、Next.js、React、TypeS
 
 ---
 
+## 🐍 コントリビューションスネーク
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SolaIntegral/SolaIntegral/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</div>
+
+---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SolaIntegral&style=flat-square&color=blue" alt="Profile Views" />
 </div>
