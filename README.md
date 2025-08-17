@@ -1,13 +1,24 @@
-# 👋 こんにちは、Solaです！
+# 👋 こんにちは、Soraです！
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Web+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  
+  <p>
+    <strong>📱 詳細なポートフォリオはこちら → </strong>
+    <a href="https://v0-mypage2githubio.vercel.app/" target="_blank">
+      <strong>🌐 My Portfolio</strong>
+    </a>
+  </p>
 </div>
 
 ## 🚀 自己紹介
 
-私は**Sola**と申します。ソフトウェア開発に情熱を持つ開発者です。
-新しい技術を学ぶことが大好きで、常に成長し続けることを心がけています。
+私は**Sora**と申します。現在、大学3年生として情報工学を専攻しています。
+Webアプリケーションの開発に情熱を持ち、Next.js、React、TypeScriptを中心としたモダンな技術スタックの習得に励んでいます。
+
+実践的なプロジェクトを通じて技術力を向上させ、ユーザーにとって価値のあるアプリケーションの開発を目指しています。
+
+> 💡 **より詳しい情報やプロジェクトの詳細は、[ポートフォリオサイト](https://v0-mypage2githubio.vercel.app/)をご覧ください！**
 
 ## 🛠️ 技術スタック
 
@@ -40,28 +51,38 @@
 
 ## 🌟 最近の活動
 
-- 🔥 新しいプロジェクトの開発に取り組んでいます
-- 📚 新しい技術の学習を継続中
+- 🔥 ポートフォリオサイトの開発・改善に取り組んでいます
+- 📚 大学の授業と並行して、Next.js、React、TypeScriptの学習を継続中
+- 🎨 モダンなUI/UXデザインの実装に挑戦中
+- 💻 個人プロジェクトを通じて実践的なスキルを身につけています
 - 🤝 オープンソースプロジェクトへの貢献を目指しています
 
-## 📫 お問い合わせ
+## 📫 お問い合わせ・リンク
 
 <div align="center">
   <a href="https://github.com/SolaIntegral">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="https://www.linkedin.com/in/sola1216/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://v0-mypage2githubio.vercel.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:sora1216@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
 ## 💡 興味・関心
 
-- 🌐 Web開発
-- 📱 モバイルアプリ開発
-- 🤖 AI・機械学習
-- ☁️ クラウド技術
-- 🔒 セキュリティ
+- 🌐 フルスタックWeb開発
+- 📱 レスポンシブデザインとモバイルファースト開発
+- 🎨 モダンなUI/UXデザイン
+- ⚡ パフォーマンス最適化
+- 🔧 開発効率化とツールの活用
+- 🎓 情報工学・ソフトウェア工学の理論学習
+- 🚀 最新技術トレンドのキャッチアップ
 
 ---
 
