@@ -40,6 +40,45 @@ Webアプリケーションの開発に情熱を持ち、Next.js、React、TypeS
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+## 🌐 公開サイト・プロジェクト
+
+<div align="center">
+  <h3>✨ 実際に体験してみてください！ ✨</h3>
+  
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
+    <a href="https://v0-sustainability-website-seven.vercel.app/index.html" target="_blank">
+      <img src="https://img.shields.io/badge/-🌱_Sustainability_Website-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Sustainability Website" />
+    </a>
+    
+    <a href="https://dyshzc55luf52.cloudfront.net/" target="_blank">
+      <img src="https://img.shields.io/badge/-☁️_CloudFront_Site-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="CloudFront Site" />
+    </a>
+  </div>
+  
+  <p>
+    <strong>🎯 各サイトの特徴：</strong><br>
+    • <strong>🌱 Sustainability Website:</strong> サステナビリティに特化したWebサイト、Vercelでホスティング<br>
+    • <strong>☁️ CloudFront Site:</strong> AWS CloudFrontを使用した高速配信サイト
+  </p>
+  
+  <p>
+    <strong>💡 これらのサイトで学べること：</strong><br>
+    • 異なるホスティング環境でのデプロイ手法<br>
+    • クラウドサービスの活用（Vercel、AWS）<br>
+    • レスポンシブデザインとモダンなWeb技術の実装
+  </p>
+  
+  <p>
+    <strong>🔗 直接アクセス：</strong><br>
+    <a href="https://v0-sustainability-website-seven.vercel.app/index.html" target="_blank">
+      <strong>🌱 Sustainability Website</strong>
+    </a> | 
+    <a href="https://dyshzc55luf52.cloudfront.net/" target="_blank">
+      <strong>☁️ CloudFront Site</strong>
+    </a>
+  </p>
+</div>
+
 ## 📊 GitHub統計
 
 <div align="center">
@@ -51,10 +90,12 @@ Webアプリケーションの開発に情熱を持ち、Next.js、React、TypeS
 
 ## 🌟 最近の活動
 
-- 🔥 ポートフォリオサイトの開発・改善に取り組んでいます
+- 🔥 **Sustainability Websiteの開発** - サステナビリティに特化したWebサイトをVercelで公開中
+- 🌐 **CloudFront Siteの構築** - AWS CloudFrontを使用した高速配信サイトを運用中
 - 📚 大学の授業と並行して、Next.js、React、TypeScriptの学習を継続中
 - 🎨 モダンなUI/UXデザインの実装に挑戦中
 - 💻 個人プロジェクトを通じて実践的なスキルを身につけています
+- ☁️ **クラウドサービスの活用** - Vercel、AWS CloudFrontでのデプロイ経験を積み重ね中
 - 🤝 オープンソースプロジェクトへの貢献を目指しています
 
 ## 📫 お問い合わせ・リンク
@@ -66,8 +107,11 @@ Webアプリケーションの開発に情熱を持ち、Next.js、React、TypeS
   <a href="https://www.linkedin.com/in/sola1216/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://v0-mypage2githubio.vercel.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://v0-sustainability-website-seven.vercel.app/index.html">
+    <img src="https://img.shields.io/badge/-🌱_Sustainability-00C853?style=flat-square&logo=vercel&logoColor=white" alt="Sustainability Website" />
+  </a>
+  <a href="https://dyshzc55luf52.cloudfront.net/">
+    <img src="https://img.shields.io/badge/-☁️_CloudFront-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="CloudFront Site" />
   </a>
   <a href="mailto:sora1216@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email" />
