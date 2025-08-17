@@ -43,40 +43,28 @@ Webアプリケーションの開発に情熱を持ち、Next.js、React、TypeS
 ## 🌐 公開サイト・プロジェクト
 
 <div align="center">
-  <h3>✨ 実際に体験してみてください！ ✨</h3>
-  
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
-    <a href="https://v0-sustainability-website-seven.vercel.app/index.html" target="_blank">
-      <img src="https://img.shields.io/badge/-🌱_Sustainability_Website-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Sustainability Website" />
-    </a>
-    
-    <a href="https://dyshzc55luf52.cloudfront.net/" target="_blank">
-      <img src="https://img.shields.io/badge/-☁️_CloudFront_Site-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="CloudFront Site" />
-    </a>
-  </div>
-  
-  <p>
-    <strong>🎯 各サイトの特徴：</strong><br>
-    • <strong>🌱 Sustainability Website:</strong> サステナビリティに特化したWebサイト、Vercelでホスティング<br>
-    • <strong>☁️ CloudFront Site:</strong> AWS CloudFrontを使用した高速配信サイト
-  </p>
-  
-  <p>
-    <strong>💡 これらのサイトで学べること：</strong><br>
-    • 異なるホスティング環境でのデプロイ手法<br>
-    • クラウドサービスの活用（Vercel、AWS）<br>
-    • レスポンシブデザインとモダンなWeb技術の実装
-  </p>
-  
-  <p>
-    <strong>🔗 直接アクセス：</strong><br>
-    <a href="https://v0-sustainability-website-seven.vercel.app/index.html" target="_blank">
-      <strong>🌱 Sustainability Website</strong>
-    </a> | 
-    <a href="https://dyshzc55luf52.cloudfront.net/" target="_blank">
-      <strong>☁️ CloudFront Site</strong>
-    </a>
-  </p>
+
+### ✨ 実際に体験してみてください！ ✨
+
+[![Sustainability Website](https://img.shields.io/badge/-🌱_Sustainability_Website-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://v0-sustainability-website-seven.vercel.app/index.html)
+
+[![CloudFront Site](https://img.shields.io/badge/-☁️_CloudFront_Site-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://dyshzc55luf52.cloudfront.net/)
+
+**🎯 各サイトの特徴：**
+
+• **🌱 Sustainability Website:** サステナビリティに特化したWebサイト、Vercelでホスティング  
+• **☁️ CloudFront Site:** AWS CloudFrontを使用した高速配信サイト
+
+**💡 これらのサイトで学べること：**
+
+• 異なるホスティング環境でのデプロイ手法  
+• クラウドサービスの活用（Vercel、AWS）  
+• レスポンシブデザインとモダンなWeb技術の実装
+
+**🔗 直接アクセス：**
+
+[🌱 Sustainability Website](https://v0-sustainability-website-seven.vercel.app/index.html) | [☁️ CloudFront Site](https://dyshzc55luf52.cloudfront.net/)
+
 </div>
 
 ## 📊 GitHub統計
