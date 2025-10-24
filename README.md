@@ -1,4 +1,6 @@
-# 👋 こんにちは、Soraです！
+# Welcome to my profile!
+
+I'm Sora, an aspiring "Architect" and "Product Creator" designing the next "new normal".
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Full+Stack+Developer;Cloud+Enthusiast" alt="Typing SVG" />
@@ -11,14 +13,23 @@
   </p>
 </div>
 
-## 🚀 自己紹介
+---
 
-私は**Sora**と申します。現在、大学3年生として情報工学を専攻しています。
-Webアプリケーションの開発に情熱を持ち、Next.js、React、TypeScriptを中心としたモダンな技術スタックの習得に励んでいます。
+### 🚀 About Me
 
-実践的なプロジェクトを通じて技術力を向上させ、ユーザーにとって価値のあるアプリケーションの開発を目指しています。
+Sora | 大学3年生（情報工学専攻）
 
-> 💡 **より詳しい情報やプロジェクトの詳細は、[ポートフォリオサイト](https://v0-mypage2githubio.vercel.app/)をご覧ください！**
+**My Mission:**
+**「自らの技術と多角的な視点（技術・デザイン・ビジネス）を駆使し、人々の生活に不可欠な価値を、この手で創り出す」**
+
+このミッションを実現するため、未来の「構想力あるアーキテクト」「プロダクトの生みの親」になることを目指し、日々挑戦を続けています。
+
+### 🛠️ Focus & Skills
+
+現在は、Webアプリケーション開発の技術スタック（**Next.js, React, TypeScript**）の習得に加え、その土台となる**システムデザイン**、**UX**、**ビジネスモデル**までを体系的に学習し、実践的なプロジェクトに活かしています。
+
+💡 私が創りたいのは、人々の「新しい当たり前」になるプロダクトです。
+詳しい実績や開発思想については、ぜひポートフォリオサイトをご覧ください！
 
 ## 🛠️ 技術スタック
 
@@ -66,6 +77,15 @@ Webアプリケーションの開発に情熱を持ち、Next.js、React、TypeS
 [🌱 Sustainability Website](https://v0-sustainability-website-seven.vercel.app/index.html) | [☁️ CloudFront Site](https://dyshzc55luf52.cloudfront.net/)
 
 </div>
+---
+
+## 🐍 コントリビューションスネーク
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SolaIntegral/SolaIntegral/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</div>
+
+---
 
 ## 📊 GitHub統計
 
@@ -115,14 +135,6 @@ Webアプリケーションの開発に情熱を持ち、Next.js、React、TypeS
 - 🔧 開発効率化とツールの活用
 - 🎓 情報工学・ソフトウェア工学の理論学習
 - 🚀 最新技術トレンドのキャッチアップ
-
----
-
-## 🐍 コントリビューションスネーク
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SolaIntegral/SolaIntegral/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</div>
 
 ---
 
