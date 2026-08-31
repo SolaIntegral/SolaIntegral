@@ -17,7 +17,7 @@ I'm Sora, an aspiring "Architect" and "Product Creator" designing the next "new 
 
 ### 🚀 About Me
 
-Sora | 大学3年生（情報工学専攻）
+Sora | 大学4年生（知能メディア工学専攻）
 
 **My Mission:**
 **「自らの技術と多角的な視点（技術・デザイン・ビジネス）を駆使し、人々の生活に不可欠な価値を、この手で創り出す」**
