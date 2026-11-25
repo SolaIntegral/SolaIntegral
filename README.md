@@ -1,145 +1,117 @@
-# Welcome to my profile!
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/profile-header-mobile.svg">
+  <img src="./assets/profile-header.svg" width="100%" alt="Sora Oura — 体験からプロダクトを設計するエンジニア">
+</picture>
 
-I'm Sora, an aspiring "Architect" and "Product Creator" designing the next "new normal".
+<p align="center">
+  <a href="https://github.com/SolaIntegral">GitHub</a>
+  &nbsp;/&nbsp;
+  <a href="https://www.linkedin.com/in/sola1216/">LinkedIn</a>
+  &nbsp;/&nbsp;
+  <a href="https://v0-mypage2githubio.vercel.app/">Portfolio</a>
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Full+Stack+Developer;Cloud+Enthusiast" alt="Typing SVG" />
-  
-  <p>
-    <strong>📱 詳細なポートフォリオはこちら → </strong>
-    <a href="https://v0-mypage2githubio.vercel.app/" target="_blank">
-      <strong>🌐 My Portfolio</strong>
-    </a>
-  </p>
-</div>
+千葉工業大学で情報工学を学びながら、Web・モバイル・AIを使ったプロダクトを開発しています。  
+課題の発見から情報設計、UI、実装、運用までを行き来し、**人が次の行動へ進みやすくなる体験**を考えます。  
+ヘルスケア、教育、地域、防災など、生活に近いテーマに取り組んでいます。
 
----
+## つくったもの
 
-### 🚀 About Me
+### 行動のきっかけをつくる
 
-Sora | 大学4年生（知能メディア工学専攻）
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SolaIntegral/gift">GIFTS</a></h3>
+      <p><strong>健康を「贈る」体験</strong></p>
+      <p>大切な人を思う気持ちから、予防医療への最初の一歩につなげるヘルスギフトサービスです。</p>
+      <p><strong>体験の流れ</strong><br>相手を思う → ギフトを選ぶ → 贈る → 行動につながる</p>
+      <p><code>Vue 3</code> <code>TypeScript</code> <code>AWS</code> <code>Amazon Bedrock</code> <code>LINE API</code></p>
+      <p><sub>AWS 地域創生・社会課題解決AIプログラミングコンテスト 名古屋大会 最優秀賞</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SolaIntegral/glasses_1">Glasses</a></h3>
+      <p><strong>相談したい人と、支援できる人をつなぐ体験</strong></p>
+      <p>学生がメンターを探し、空き時間を確認して、相談を予約するまでを一つにつないだサービスです。</p>
+      <p><strong>体験の流れ</strong><br>相手を探す → 比較する → 予約する → 対話する</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Firebase</code> <code>Google Calendar API</code></p>
+      <p><sub>PoCで43件のマッチングを支援</sub></p>
+    </td>
+  </tr>
+</table>
 
-**My Mission:**
-**「自らの技術と多角的な視点（技術・デザイン・ビジネス）を駆使し、人々の生活に不可欠な価値を、この手で創り出す」**
+### 地域と安全を支える
 
-このミッションを実現するため、未来の「構想力あるアーキテクト」「プロダクトの生みの親」になることを目指し、日々挑戦を続けています。
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SolaIntegral/sodatsunara">Sodatsunara</a></h3>
+      <p><strong>地域のお店と暮らす人をつなぐ体験</strong></p>
+      <p>地域の仕事や企業の情報を見つけやすくし、住民と小規模事業者の接点をつくるプラットフォームです。</p>
+      <p><strong>体験の流れ</strong><br>地域を知る → お店を見つける → 関わり方を選ぶ</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Firebase</code> <code>Docker</code></p>
+      <p><sub>千葉オープンデータハッカソン 習志野市コース1位・協賛企業賞4件</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SolaIntegral/udc2025">ANSHIN JAPAN</a></h3>
+      <p><strong>通信が不安定な災害時にも助け合える体験</strong></p>
+      <p>災害時の位置情報と周囲の端末を活用し、通信制約のある状況での情報共有と相互支援を考えたモバイルアプリです。</p>
+      <p><strong>体験の流れ</strong><br>状況を知る → 周囲とつながる → 必要な支援を届ける</p>
+      <p><code>Flutter</code> <code>Dart</code> <code>Riverpod</code> <code>Bluetooth</code> <code>Flutter Map</code></p>
+      <p><sub>アーバンデータチャレンジ2025 学生奨励賞</sub></p>
+    </td>
+  </tr>
+</table>
 
-### 🛠️ Focus & Skills
+<details>
+<summary><strong>その他のプロジェクトを見る</strong></summary>
 
-現在は、Webアプリケーション開発の技術スタック（**Next.js, React, TypeScript**）の習得に加え、その土台となる**システムデザイン**、**UX**、**ビジネスモデル**までを体系的に学習し、実践的なプロジェクトに活かしています。
+#### 行動や成長を支える
 
-💡 私が創りたいのは、人々の「新しい当たり前」になるプロダクトです。
-詳しい実績や開発思想については、ぜひポートフォリオサイトをご覧ください！
+- [`visuy-cast`](https://github.com/SolaIntegral/visuy-cast) — 余力や意欲を考慮して予定を組み立てるAIスケジューラー
+- [`A-A`](https://github.com/SolaIntegral/A-A) — タスク、集中、学習記録をつなぐ成長支援アプリ
+- [`buddy`](https://github.com/SolaIntegral/buddy) — 目標と行動の関係を可視化するパーソナルシステム
 
-## 🛠️ 技術スタック
+#### Webで体験を伝える
 
-### プログラミング言語
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+- [`GifTs_1`](https://github.com/SolaIntegral/GifTs_1) — モバイル中心のストーリー形式プロフィール
+- [`mediadesign`](https://github.com/SolaIntegral/mediadesign) — 手順を視覚的に学べるWebコンテンツ
+- [`mypage3`](https://github.com/SolaIntegral/mypage3) — プロジェクトの背景まで伝えるポートフォリオ
 
-### フレームワーク・ライブラリ
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+</details>
 
-### ツール・プラットフォーム
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+## 技術領域
 
-## 🌐 公開サイト・プロジェクト
+| 領域 | 主な技術 |
+|---|---|
+| Web | TypeScript、Next.js、React、Vue |
+| モバイル | Flutter、Dart |
+| データ・クラウド | Firebase、AWS、PostgreSQL、MySQL |
+| AI・外部連携 | Gemini API、Claude API、Amazon Bedrock、Google Calendar API、LINE API |
+| プロダクト開発 | 課題調査、情報設計、プロトタイピング、ユーザーテスト、運用改善 |
 
-<div align="center">
+## Activity
 
-### ✨ 実際に体験してみてください！ ✨
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SolaIntegral/SolaIntegral/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/SolaIntegral/SolaIntegral/output/github-contribution-grid-snake.svg" width="100%" alt="GitHubへのコントリビューション">
+</picture>
 
-[![Sustainability Website](https://img.shields.io/badge/-🌱_Sustainability_Website-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://v0-sustainability-website-seven.vercel.app/index.html)
+<details>
+<summary><strong>公開リポジトリの統計を見る</strong></summary>
 
-[![CloudFront Site](https://img.shields.io/badge/-☁️_CloudFront_Site-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://dyshzc55luf52.cloudfront.net/)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SolaIntegral&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=SolaIntegral&show_icons=true&theme=default&hide_border=true&include_all_commits=true" width="100%" alt="GitHubの統計">
+</picture>
 
-**🎯 各サイトの特徴：**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SolaIntegral&layout=compact&theme=github_dark_dimmed&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolaIntegral&layout=compact&theme=default&hide_border=true" width="100%" alt="公開リポジトリで使用している言語">
+</picture>
 
-• **🌱 Sustainability Website:** サステナビリティに特化したWebサイト、Vercelでホスティング  
-• **☁️ CloudFront Site:** AWS CloudFrontを使用した高速配信サイト
+</details>
 
-**💡 これらのサイトで学べること：**
-
-• 異なるホスティング環境でのデプロイ手法  
-• クラウドサービスの活用（Vercel、AWS）  
-• レスポンシブデザインとモダンなWeb技術の実装
-
-**🔗 直接アクセス：**
-
-[🌱 Sustainability Website](https://v0-sustainability-website-seven.vercel.app/index.html) | [☁️ CloudFront Site](https://dyshzc55luf52.cloudfront.net/)
-
-</div>
----
-
-## 🐍 コントリビューションスネーク
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SolaIntegral/SolaIntegral/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</div>
-
----
-
-## 📊 GitHub統計
-
-<div align="center">
-  <a href="https://github.com/SolaIntegral">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SolaIntegral&show_icons=true&theme=radical&hide_border=true" alt="Sola's GitHub stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolaIntegral&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
-</div>
-
-## 🌟 最近の活動
-
-- 🔥 **Sustainability Websiteの開発** - サステナビリティに特化したWebサイトをVercelで公開中
-- 🌐 **CloudFront Siteの構築** - AWS CloudFrontを使用した高速配信サイトを運用中
-- 📚 大学の授業と並行して、Next.js、React、TypeScriptの学習を継続中
-- 🎨 モダンなUI/UXデザインの実装に挑戦中
-- 💻 個人プロジェクトを通じて実践的なスキルを身につけています
-- ☁️ **クラウドサービスの活用** - Vercel、AWS CloudFrontでのデプロイ経験を積み重ね中
-- 🤝 オープンソースプロジェクトへの貢献を目指しています
-
-## 📫 お問い合わせ・リンク
-
-<div align="center">
-  <a href="https://github.com/SolaIntegral">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/sola1216/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://v0-sustainability-website-seven.vercel.app/index.html">
-    <img src="https://img.shields.io/badge/-🌱_Sustainability-00C853?style=flat-square&logo=vercel&logoColor=white" alt="Sustainability Website" />
-  </a>
-  <a href="https://dyshzc55luf52.cloudfront.net/">
-    <img src="https://img.shields.io/badge/-☁️_CloudFront-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="CloudFront Site" />
-  </a>
-  <a href="mailto:sora1216@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
-## 💡 興味・関心
-
-- 🌐 フルスタックWeb開発
-- 📱 レスポンシブデザインとモバイルファースト開発
-- 🎨 モダンなUI/UXデザイン
-- ⚡ パフォーマンス最適化
-- 🔧 開発効率化とツールの活用
-- 🎓 情報工学・ソフトウェア工学の理論学習
-- 🚀 最新技術トレンドのキャッチアップ
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SolaIntegral&style=flat-square&color=blue" alt="Profile Views" />
-</div>
-
-*このプロフィールは[GitHub README](https://github.com/SolaIntegral)で更新されています*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SolaIntegral&style=flat-square&color=168BFF" alt="プロフィール閲覧数">
+</p>
