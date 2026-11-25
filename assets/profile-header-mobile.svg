@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720" role="img" aria-labelledby="title desc">
+  <title id="title">Sora Oura — Experience Designer and Engineer</title>
+  <desc id="desc">黒い背景に大きな白い名前と青い斜線を配置したモバイル用プロフィールヘッダー。</desc>
+  <defs>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#62CBFF"/>
+      <stop offset="1" stop-color="#0875FF"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#8CB8D8" stroke-opacity=".09"/>
+    </pattern>
+    <mask id="nameReveal"><rect class="reveal-mask" width="620" height="360" fill="white"/></mask>
+  </defs>
+  <style>
+    .display{font-family:Inter,Arial,sans-serif;font-weight:900;letter-spacing:-7px}
+    .mono{font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace}
+    .reveal-mask{transform-box:fill-box;transform-origin:left;animation:reveal 1.15s cubic-bezier(.2,.8,.2,1) both}
+    @keyframes reveal{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}.reveal-mask{transform:none}}
+  </style>
+  <rect width="720" height="720" rx="28" fill="#05080C"/>
+  <rect width="720" height="720" rx="28" fill="url(#grid)"/>
+  <path d="M585 0h135v720H330z" fill="#0B1724"/>
+  <path d="M647 -20h54L414 740h-54z" fill="url(#blue)"/>
+  <g class="mono" font-size="16" fill="#829FB5"><text x="42" y="54">github.com/SolaIntegral</text><text x="42" y="684">EXPERIENCE DESIGN / ENGINEERING</text></g>
+  <circle cx="22" cy="49" r="4" fill="#168BFF"/>
+  <g mask="url(#nameReveal)">
+    <text x="35" y="230" class="display" font-size="138" fill="#F5F8FC">SORA</text>
+    <text x="35" y="365" class="display" font-size="138" fill="#F5F8FC">OURA.</text>
+  </g>
+</svg>
+
