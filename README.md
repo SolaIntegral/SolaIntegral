@@ -1,7 +1,10 @@
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/profile-header-mobile.svg">
-  <img src="./assets/profile-header.svg" width="100%" alt="Sora Oura — 体験からプロダクトを設計するエンジニア">
-</picture>
+<h1 align="center">SORA OURA</h1>
+
+<p align="center"><strong>体験を設計し、動くプロダクトにする。</strong></p>
+
+<p align="center">Student Engineer / Product Builder</p>
+
+<p align="center"><code>Web</code> <code>Mobile</code> <code>AI</code></p>
 
 <p align="center">
   <a href="https://github.com/SolaIntegral">GitHub</a>
@@ -11,9 +14,18 @@
   <a href="https://v0-mypage2githubio.vercel.app/">Portfolio</a>
 </p>
 
-千葉工業大学で情報工学を学びながら、Web・モバイル・AIを使ったプロダクトを開発しています。  
-課題の発見から情報設計、UI、実装、運用までを行き来し、**人が次の行動へ進みやすくなる体験**を考えます。  
-ヘルスケア、教育、地域、防災など、生活に近いテーマに取り組んでいます。
+## 自己紹介
+
+```yaml
+role:   学生エンジニア / プロダクト開発
+focus:  体験設計 × 実装
+themes: ヘルスケア / 教育 / 地域 / 防災
+```
+
+- 千葉工業大学で情報工学を学びながら、Web・モバイル・AIを使ったプロダクトを開発しています。
+- 課題の発見から情報設計、UI、実装、運用までを行き来し、人が次の行動へ進みやすくなる体験を考えます。
+
+> 課題を見つけるところから、実際に使われる形へ届けるところまで。
 
 ## つくったもの
 
@@ -97,21 +109,3 @@
   <img src="https://raw.githubusercontent.com/SolaIntegral/SolaIntegral/output/github-contribution-grid-snake.svg" width="100%" alt="GitHubへのコントリビューション">
 </picture>
 
-<details>
-<summary><strong>公開リポジトリの統計を見る</strong></summary>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SolaIntegral&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=SolaIntegral&show_icons=true&theme=default&hide_border=true&include_all_commits=true" width="100%" alt="GitHubの統計">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SolaIntegral&layout=compact&theme=github_dark_dimmed&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolaIntegral&layout=compact&theme=default&hide_border=true" width="100%" alt="公開リポジトリで使用している言語">
-</picture>
-
-</details>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SolaIntegral&style=flat-square&color=168BFF" alt="プロフィール閲覧数">
-</p>
