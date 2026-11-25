@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Sora Oura — Experience Designer and Engineer</title>
+  <desc id="desc">黒い背景に大きな白い名前と青い斜線を配置したプロフィールヘッダー。</desc>
+  <defs>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#59C7FF"/>
+      <stop offset="1" stop-color="#0875FF"/>
+    </linearGradient>
+    <linearGradient id="slash" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#168BFF" stop-opacity="0"/>
+      <stop offset=".45" stop-color="#168BFF"/>
+      <stop offset="1" stop-color="#73D2FF"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#8CB8D8" stroke-opacity=".09"/>
+    </pattern>
+    <mask id="nameReveal">
+      <rect class="reveal-mask" x="0" y="0" width="850" height="420" fill="white"/>
+    </mask>
+  </defs>
+  <style>
+    .display{font-family:Inter,Arial,sans-serif;font-weight:900;letter-spacing:-7px}
+    .mono{font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace}
+    .reveal-mask{transform-box:fill-box;transform-origin:left;animation:reveal 1.15s cubic-bezier(.2,.8,.2,1) both}
+    @keyframes reveal{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}.reveal-mask{transform:none}}
+  </style>
+  <rect width="1200" height="420" rx="24" fill="#05080C"/>
+  <rect width="1200" height="420" rx="24" fill="url(#grid)"/>
+  <path d="M930 0h270v420H675z" fill="#0B1724"/>
+  <path d="M1003 -30h64L786 450h-64z" fill="url(#blue)"/>
+  <path d="M1068 -30h12L799 450h-12z" fill="#C7F0FF" fill-opacity=".38"/>
+
+  <g class="mono" font-size="14" fill="#7E9AB0">
+    <text x="54" y="54">github.com/SolaIntegral</text>
+    <text x="54" y="382">EXPERIENCE DESIGN / ENGINEERING</text>
+    <text x="1055" y="388" text-anchor="end">35.6762°N</text>
+  </g>
+  <circle cx="33" cy="49" r="4" fill="#168BFF"/>
+  <path d="M54 72H514" stroke="url(#slash)" stroke-width="2"/>
+
+  <g mask="url(#nameReveal)">
+    <text x="47" y="196" class="display" font-size="142" fill="#F5F8FC">SORA</text>
+    <text x="47" y="326" class="display" font-size="142" fill="#F5F8FC">OURA.</text>
+  </g>
+
+</svg>
+
